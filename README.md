@@ -7,6 +7,7 @@ Functionality: It computes the factorial of the number 5 (hardcoded in the scrip
 Output:
 
 Factorial of 5 is: 120
+
 task2.py - Math Module Operations
 This script demonstrates the use of Python's built-in math module to perform several common mathematical operations.
 
